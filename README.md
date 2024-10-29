@@ -1,4 +1,4 @@
-# Rupya
+# Lendify
 
 Zero collateral lending platform with a focus on seamless lending for agriculture. 🧑🏽‍🌾
 
@@ -8,9 +8,9 @@ In the traditional markets, unsecured/semi-secured lending is the biggest part o
 
 In India, where the agriculture industry employs 41.49% of the working population, a seamless way to lend and borrow for trade financing is essential.
 
-Rupya is an Unsecured/Zero collateral lending platform, which is tapping into both these markets to revolutionise DeFi financing. There is a focus on incentivising agriculture loans while borrowing
+Lendify is an Unsecured/Zero collateral lending platform, which is tapping into both these markets to revolutionise DeFi financing. There is a focus on incentivising agriculture loans while borrowing
 
-## How Rupya works
+## How Lendify works
 
 - **Lenders** lend assets into a particular currency pool which is used for loans, for which they earn interest. Liquid funds is planned to be deposited in aave/curve.
 - **Borrowers**, once approved, submit a loan request, their request is verified by the stakers, and stakers have the final verdict on the approval.
@@ -26,8 +26,8 @@ Rupya is an Unsecured/Zero collateral lending platform, which is tapping into bo
 
 ## File layout
 
-- `contracts` - Contains all the smart contracts used. (RupyaToken, Loan, Borrow, etc).
-- `faucet-webapp` - A faucet app to easily get RUP (Rupya Token) and USDC to for seamless usage of the platform.
+- `contracts` - Contains all the smart contracts used. (LendifyToken, Loan, Borrow, etc).
+- `faucet-webapp` - A faucet app to easily get RUP (Lendify Token) and USDC to for seamless usage of the platform.
 - `webapp` - The main Dapp built using Angular, which contains all the functionalities of the platform.
 
 ## Technologies
